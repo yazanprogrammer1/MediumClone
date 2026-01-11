@@ -1,4 +1,4 @@
-# 💎 Medium Clone - Ultra Premium Edition
+<img width="1080" height="2400" alt="Screenshot_1768131806" src="https://github.com/user-attachments/assets/538598bd-e80b-43be-8012-8148974c97d7" /># 💎 Medium Clone - Ultra Premium Edition
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-Latest-green.svg?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose)
@@ -83,7 +83,23 @@ graph TD
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+<table align="center">
+  <tr>
+    <td><img src="screenshots/Screenshot_1768131806.png" width="250"/></td>
+    <td><img src="screenshots/Screenshot_1768131817.png" width="250"/></td>
+    <td><img src="screenshots/Screenshot_1768131859.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1768131878.png" width="250"/></td>
+    <td><img src="screenshots/Screenshot_1768131920.png" width="250"/></td>
+    <td><img src="screenshots/Screenshot_1768132111.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Screenshot_1768132509.png" width="250"/></td>
+    <td><img src="screenshots/Screenshot_1768132774.png" width="250"/></td>
+    <td><img src="screenshots/Screenshot_1768132777.png" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
