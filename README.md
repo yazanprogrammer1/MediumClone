@@ -1,4 +1,4 @@
-<img width="1080" height="2400" alt="Screenshot_1768131806" src="https://github.com/user-attachments/assets/538598bd-e80b-43be-8012-8148974c97d7" /># 💎 Medium Clone - Ultra Premium Edition
+# 💎 Medium Clone - Ultra Premium Edition
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.0-purple.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/Jetpack%20Compose-Latest-green.svg?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose)
