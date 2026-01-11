@@ -19,7 +19,7 @@ Every interaction is polished, from the "Shimmering" Gold Pro badges to the hapt
 
 ---
 
-<img src="screenshots/app.png" width="250"/>
+<img src="screenshots/app.png"/>
 
 ---
 
