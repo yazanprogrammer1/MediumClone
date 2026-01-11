@@ -17,6 +17,12 @@ This project is a sophisticated **Native Android Application** that reimagines t
 
 Every interaction is polished, from the "Shimmering" Gold Pro badges to the haptic feedback on the "Clap" button.
 
+---
+
+<img src="screenshots/app.png" width="250"/>
+
+---
+
 ### ✨ Key Features
 
 -   **🤖 AI-Powered Writing Assistant**: Integrated **Google Gemini SDK** to help authors generate ideas, refine drafts, and fix grammar instantly.
