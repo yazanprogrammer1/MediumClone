@@ -76,7 +76,7 @@ graph TD
 
 1.  **Clone the repo**:
     ```bash
-    git clone https://github.com/Start-Up-JO/MediumClone.git
+    git clone https://github.com/yazanprogrammer1/MediumClone.git
     ```
 2.  **Open in Android Studio** (Koala or newer recommended).
 3.  **Sync Gradle**.
@@ -121,4 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Built with ❤️ by [Your Name]*
+*Built with ❤️ by [Yazan Abu Ali]*
